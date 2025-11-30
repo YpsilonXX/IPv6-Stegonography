@@ -126,5 +126,5 @@ def main():
     else:
         print("Unknown mode. Use 'send' or 'listen'.")
 
-if __name__ == "__main__":йййййййййй
+if __name__ == "__main__":
     main()
